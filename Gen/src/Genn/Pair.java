@@ -50,6 +50,7 @@ public class Pair <T>{
 		int j = pair.getSecond(); //generica plus autounboxxing
 		System.out.printf("%d %d\n", i, j);
 		
+		
 	}
 
 }

@@ -11,7 +11,7 @@ public class ArrayListFun {
 		System.out.println(al);
 		System.out.println("size: " + al.size());
 		
-
+ 
 	}
 
 }
